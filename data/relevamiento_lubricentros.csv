@@ -1,0 +1,4 @@
+Fecha,Lubricentro,Dirección,Zona,Contacto,Teléfono,Marcas_aceite,Marcas_aire,Marcas_combustible,Compra_por_caja(S/N),Cuenta_corriente(S/N),Frecuencia_reposición,Precio_referencia,Observaciones
+2024-06-05,LubriCentro Norte,Av. Colón 1234,Centro,Martín Pérez,351-555-0101,Ypf; Elaion,Mann; WIX,Fram,S,S,Quincenal,8500,Prefiere entregas por la mañana
+2024-06-06,AutoLube Sur,Av. Valparaíso 4560,Sur,Lucía Gómez,351-555-0202,Castrol; Shell,Purolator; Mann,ACDelco,N,N,Mensual,9200,Consulta por descuentos por volumen
+2024-06-07,Filtros del Río,Costanera 980,Este,Diego Ruiz,351-555-0303,Total; Petronas,WIX; Fram,Mann,S,N,Semanal,8000,Alta rotación de filtros de aire
